@@ -30,9 +30,6 @@ Neste espaço, compartilho meus projetos acadêmicos e acompanho minha evoluçã
 * **Cibersegurança:** segurança da informação, proteção de sistemas e análise de riscos.
 * **Gestão de TI:** governança, organização de processos e gestão de recursos tecnológicos.
 
-## Projetos
-
-### DeliveryCalc
 
 ## Projetos
 
