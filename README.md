@@ -34,20 +34,22 @@ Neste espaço, compartilho meus projetos acadêmicos e acompanho minha evoluçã
 
 ### DeliveryCalc
 
-Sistema desenvolvido em Java para calcular valores de pedidos, considerando descontos, entregas e retiradas.
+## Projetos
 
-[Ver projeto](https://github.com/marcelinolidiane/DeliveryCalc)
+### [Notely](https://github.com/marcelinolidiane/Notely)
+Sistema web de gestão acadêmica com áreas para alunos, professores e administradores, controle de notas e faltas e assistente acadêmico com inteligência artificial.
 
-### Stockly
+**Tecnologias:** Java 21, Spring Boot, Spring Security, MySQL, HTML, CSS e JavaScript.
 
-Sistema de gerenciamento de estoque para controle de produtos e movimentações de mercadorias.
+### [Stockly](https://github.com/marcelinolidiane/Stockly)
+Aplicação web para controle de estoque, com cadastro de produtos, registro de entradas e saídas, histórico de movimentações e exportação de dados para Excel.
 
-[Ver projeto](https://github.com/marcelinolidiane/Stockly)
+**Tecnologias:** Python, Flask, SQLite, Pandas e OpenPyXL.
 
-### Notely
+### [DeliveryCalc](https://github.com/marcelinolidiane/DeliveryCalc)
+Sistema em Java que calcula pedidos de entrega e retirada, considerando descontos e valores de frete.
 
-Projeto acadêmico relacionado ao gerenciamento de informações e notas de estudantes.
-
+**Tecnologias:** Java, Programação Orientada a Objetos e Apache Ant.
 ## Objetivo Profissional
 
 Busco uma oportunidade na área de Tecnologia da Informação, especialmente em Cibersegurança ou Gestão de TI, para desenvolver minhas habilidades, adquirir experiência prática e continuar aprendendo.
